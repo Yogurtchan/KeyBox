@@ -101,3 +101,8 @@ body{
 .foot-icon{
     padding: 20px 10px;
 }
+@media (max-width: 1024px){
+    .title-quote{
+        font-size: 3rem;
+    }
+}
