@@ -1,0 +1,103 @@
+/*Homepage*/
+/*Title Section*/
+#title{
+    background-color:#222831;
+    padding: 2% 3% 2%;
+}
+.brand-title{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 900;
+    font-size: 2.5rem;
+    padding-left: 0.4%;
+}
+.links{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+    font-size: 1.20rem;
+}
+.nav-list{
+    padding: 0 18px;
+}
+.navbar{
+    padding: 0 0 0.5rem;
+}
+/*Body section*/
+body{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+    font-size: 1.20rem;
+}
+.title-quote{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    font-size: 5.5rem;
+    color: #FFD369;
+    margin-top: 3rem;
+}
+.nav-img{
+    height: 95%;
+    width: 95%;
+    padding: 0.5rem;
+}
+.btn-learn{
+    margin: 5% 3% 5% 0;
+}
+#features{
+    padding: 7% 14%;
+    text-align: center;
+    position: relative;
+}
+.fa-icon{
+    color: #FFD369;
+    padding-bottom: 10%;
+}
+.fa-icon:hover{
+    color: #fac549;
+}
+.feature-title{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+/*Testimonial section*/
+#testimonials{
+    background-color:#FFD369;
+    text-align: center;
+    color: white;
+}
+.testimonial-image{
+    border-radius: 50%;
+    width:200px;
+    height:200px;
+    margin: 20px;
+}
+.testimonial-text{
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+.carousel-item{
+    padding: 7% 14%;
+}
+/*Services*/
+.price-heading, .price{
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.5;
+    padding: 30px;
+}
+#pricing{
+    text-align: center;
+    padding: 40px;
+}
+/*Contact*/
+#form{
+    padding: 7% 14%;
+}
+/*Footer*/
+#footer{
+    text-align: center;
+    padding: 2%;
+}
+.foot-icon{
+    padding: 20px 10px;
+}
